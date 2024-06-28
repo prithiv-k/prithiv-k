@@ -3,7 +3,7 @@
 <h3 align="center">Java Developer,who passionate about Coding and Problem Solving 🚀</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prithiv-k&label=Profile%20views&color=0e75b6&style=flat" alt="prithiv-k" /> </p>
-<img align="right" alt="Coding🤖" width="400" src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif">
+<img align="right" alt="Coding🤖" width="400" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZG5ucGQyYXZ0NXZtZG1xNzJqcXA0NHB5MWpnZjF6b25zZXlqMWozaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif">
 
 - 🌱 I’m currently learning **Java,JavaScript,React.**
 
