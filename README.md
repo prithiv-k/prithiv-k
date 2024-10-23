@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **prithiv2k03@gmail.com**
 
-- 📄 Resume [https://drive.google.com/file/d/1XNzVlPnTDgv2DUjUGLtq8t5EmX1FzOeK/view](https://drive.google.com/file/d/1XNzVlPnTDgv2DUjUGLtq8t5EmX1FzOeK/view)
+- 📄 Resume [https://drive.google.com/file/d/14djMi_6fU-c4VHKDZ5DKJA9yUGB-gWhr/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
